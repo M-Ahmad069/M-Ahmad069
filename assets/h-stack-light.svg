@@ -25,4 +25,4 @@
   .flow { stroke-dasharray: 6 10; animation: flow 1.2s linear infinite; }
   @keyframes flow { to { stroke-dashoffset: -32 } }
   @media (prefers-reduced-motion: reduce) { .in, .blink, .pulse, .flow { animation: none } }
-</style></defs><text class="mono" x="2" y="34" font-size="16" fill="url(#acc)" letter-spacing="2">// 02</text><text class="sans" x="2" y="72" font-size="30" font-weight="700" fill="#1f2328" letter-spacing="-.5">Tech stack</text><text class="mono" x="1198" y="72" font-size="15" fill="#59636e" text-anchor="end">tools I ship with</text><rect x="0" y="82" width="1200" height="1.5" fill="url(#acc)" opacity=".55"/></svg>
+</style></defs><text class="mono" x="2" y="34" font-size="16" fill="url(#acc)" letter-spacing="2">// 03</text><text class="sans" x="2" y="72" font-size="30" font-weight="700" fill="#1f2328" letter-spacing="-.5">Tech stack</text><text class="mono" x="1198" y="72" font-size="15" fill="#59636e" text-anchor="end">tools I ship with</text><rect x="0" y="82" width="1200" height="1.5" fill="url(#acc)" opacity=".55"/></svg>

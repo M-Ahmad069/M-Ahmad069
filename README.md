@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Muhammad Ahmad, Full-Stack Software Developer, building with AI agents"/>
+  <img src="assets/hero.svg" width="100%" alt="Muhammad Ahmad, Full-Stack and AI Developer, building AI agents, agentic systems and SaaS"/>
 </p>
 
 <p align="center">
@@ -15,13 +15,16 @@
   <img src="assets/h-about-light.svg" width="100%" alt="01 About"/>
 </picture>
 
-I design and build modern web systems **end to end**, from backend architecture and APIs to responsive, polished frontends. Lately I build **AI-powered products** and work alongside **AI coding agents** to plan, build, verify and ship faster.
+I'm a full-stack developer working at the advanced end of **AI development**. I build **AI agents and agentic systems**, **AI-powered SaaS products**, and the full-stack platforms underneath them, from backend architecture and APIs to responsive, polished frontends.
+
+I work alongside AI coding agents every day to plan, build, verify and ship faster, with human judgement on every decision that matters.
 
 ```ts
 const ahmad = {
-  role: "Full-Stack Software Developer",
-  stack: ["MERN", "Next.js", "Laravel", "Supabase"],
-  builds: ["AI-powered SaaS", "REST + GraphQL APIs", "animated, responsive UIs"],
+  role: "Full-Stack & AI Developer",
+  building: ["AI agents", "agentic systems", "AI-powered SaaS"],
+  stack: ["Next.js", "React", "Node.js", "Supabase", "Laravel", "MERN"],
+  ai: ["Claude", "OpenAI", "tool use", "multi-step workflows"],
   workflow: "human + AI agents → plan · build · verify · ship",
   location: "Pakistan",
 };
@@ -30,8 +33,19 @@ const ahmad = {
 <br/>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-build.svg"/>
+  <img src="assets/h-build-light.svg" width="100%" alt="02 What I build"/>
+</picture>
+
+<p align="center">
+  <img src="assets/capabilities.svg" width="100%" alt="What I build: AI agents and agentic systems, AI-powered SaaS products, full-stack platforms"/>
+</p>
+
+<br/>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/h-stack.svg"/>
-  <img src="assets/h-stack-light.svg" width="100%" alt="02 Tech stack"/>
+  <img src="assets/h-stack-light.svg" width="100%" alt="03 Tech stack"/>
 </picture>
 
 <p align="center">
@@ -44,7 +58,7 @@ const ahmad = {
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/h-flow.svg"/>
-  <img src="assets/h-flow-light.svg" width="100%" alt="03 How I work"/>
+  <img src="assets/h-flow-light.svg" width="100%" alt="04 How I work"/>
 </picture>
 
 <p align="center">
@@ -55,7 +69,7 @@ const ahmad = {
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/h-projects.svg"/>
-  <img src="assets/h-projects-light.svg" width="100%" alt="04 Featured projects"/>
+  <img src="assets/h-projects-light.svg" width="100%" alt="05 Featured projects"/>
 </picture>
 
 <p align="center">
@@ -71,11 +85,12 @@ const ahmad = {
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/h-now.svg"/>
-  <img src="assets/h-now-light.svg" width="100%" alt="05 Right now"/>
+  <img src="assets/h-now-light.svg" width="100%" alt="06 Right now"/>
 </picture>
 
-- Building a **salon management platform**: booking, staff and customer experience for multiple salons (private, shown on my portfolio)
-- Shipping with **AI agents** in the loop for planning, building and verification
+- **Building AI-powered SaaS**: a multi-salon management platform covering booking, staff and customer experience (private, shown on my portfolio)
+- **Designing agentic systems**: AI agents that plan, use tools and work through multi-step tasks, with a human in the loop
+- **Shipping with AI agents** in my own workflow for planning, building and verification
 
 <br/>
 

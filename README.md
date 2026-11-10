@@ -1,109 +1,84 @@
-<div align="center">
+<p align="center">
+  <img src="assets/hero.svg" width="100%" alt="Muhammad Ahmad, Full-Stack Software Developer, building with AI agents"/>
+</p>
 
-<img src="assets/banner.svg" alt="Muhammad Ahmad, Full-Stack Software Developer" width="100%"/>
-
-<br/>
-
-**I design and build modern web systems end to end, from backend architecture and APIs to responsive, polished frontends.**
-
-<a href="https://m-ahmad069.github.io"><img src="https://img.shields.io/badge/Portfolio-m--ahmad069.github.io-7c9cff?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
-<img src="https://img.shields.io/badge/Based_in-Pakistan-2ee6c5?style=for-the-badge&logo=googlemaps&logoColor=0b1020" alt="Pakistan"/>
-<img src="https://img.shields.io/badge/On_GitHub_since-2020-0b1020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub since 2020"/>
-
-</div>
+<p align="center">
+  <a href="https://m-ahmad069.github.io"><img src="https://img.shields.io/badge/portfolio-m--ahmad069.github.io-a78bfa?style=flat-square&labelColor=0b0d14" alt="Portfolio"/></a>
+  <img src="https://img.shields.io/badge/based_in-Pakistan-22d3ee?style=flat-square&labelColor=0b0d14" alt="Based in Pakistan"/>
+  <img src="https://img.shields.io/badge/on_github_since-2020-34d399?style=flat-square&labelColor=0b0d14" alt="On GitHub since 2020"/>
+</p>
 
 <br/>
 
-## What I do
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-about.svg"/>
+  <img src="assets/h-about-light.svg" width="100%" alt="01 About"/>
+</picture>
 
-- **Full-stack web apps** with the MERN stack, Next.js and Laravel
-- **APIs and backends**: REST and GraphQL, authentication, databases
-- **Frontends people enjoy using**: responsive, accessible, animated with care
-- **AI-powered products**: personalised plans and assistants built on Claude and OpenAI
+I design and build modern web systems **end to end**, from backend architecture and APIs to responsive, polished frontends. Lately I build **AI-powered products** and work alongside **AI coding agents** to plan, build, verify and ship faster.
 
-<br/>
-
-## Tech stack
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+```ts
+const ahmad = {
+  role: "Full-Stack Software Developer",
+  stack: ["MERN", "Next.js", "Laravel", "Supabase"],
+  builds: ["AI-powered SaaS", "REST + GraphQL APIs", "animated, responsive UIs"],
+  workflow: "human + AI agents → plan · build · verify · ship",
+  location: "Pakistan",
+};
+```
 
 <br/>
 
-## Featured projects
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-stack.svg"/>
+  <img src="assets/h-stack-light.svg" width="100%" alt="02 Tech stack"/>
+</picture>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/M-Ahmad069/fitgenius">FitGenius</a></h3>
-      <p>AI-powered fitness SaaS with personalised workout and nutrition plans built around each person's body, goals, cuisine and lifestyle.</p>
-      <sub><b>Next.js · Supabase · Claude AI</b></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/M-Ahmad069/M-Ahmad069.github.io">Portfolio Website</a></h3>
-      <p>Modern portfolio with smooth GSAP animations, a project showcase and a responsive, interactive UI. Live on GitHub Pages.</p>
-      <sub><b>Next.js 15 · React 19 · TypeScript · GSAP</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/M-Ahmad069/myKateGo_App">FitGo</a></h3>
-      <p>Laravel 11 fitness app with a keto quiz onboarding, personalised diet and workout plans, a dashboard, coach chat and a MySQL-backed API.</p>
-      <sub><b>Laravel 11 · MySQL · OpenAI</b></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/M-Ahmad069/resume-app">Resume Builder Landing Page</a></h3>
-      <p>Responsive landing page for a resume builder with professional UI/UX, smooth animations and a mobile-first approach.</p>
-      <sub><b>Next.js · React · Tailwind CSS</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/M-Ahmad069/cv-generator">CV Generator</a></h3>
-      <p>Modern CV builder with live preview, professional templates and PDF and DOC export.</p>
-      <sub><b>HTML · CSS · JavaScript</b></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/M-Ahmad069/professional-laravel-todo-app">Laravel To-Do App</a></h3>
-      <p>Task manager with full CRUD, priorities, status tracking, due dates and a modern responsive interface.</p>
-      <sub><b>Laravel · PHP · MySQL · Blade</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,graphql&perline=9" alt="JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, Tailwind CSS, GraphQL"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,supabase,firebase,python,git,github,vercel&perline=9" alt="Laravel, PHP, MySQL, Supabase, Firebase, Python, Git, GitHub, Vercel"/>
+</p>
 
 <br/>
 
-## Currently building
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-flow.svg"/>
+  <img src="assets/h-flow-light.svg" width="100%" alt="03 How I work"/>
+</picture>
 
-**Salon management platform**, a multi-salon system covering booking, staff and customer experience. It is a private project, so it is shown in my portfolio rather than here.
+<p align="center">
+  <img src="assets/workflow.svg" width="100%" alt="How I ship: plan, build, verify, ship, with AI agents"/>
+</p>
 
 <br/>
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-projects.svg"/>
+  <img src="assets/h-projects-light.svg" width="100%" alt="04 Featured projects"/>
+</picture>
 
-### Let's build something great
+<p align="center">
+  <a href="https://github.com/M-Ahmad069/fitgenius"><img src="assets/projects/fitgenius.svg" width="49%" alt="FitGenius: AI fitness SaaS"/></a>
+  <a href="https://github.com/M-Ahmad069/M-Ahmad069.github.io"><img src="assets/projects/portfolio.svg" width="49%" alt="Portfolio website"/></a>
+  <a href="https://github.com/M-Ahmad069/myKateGo_App"><img src="assets/projects/fitgo.svg" width="49%" alt="FitGo: Laravel fitness app"/></a>
+  <a href="https://github.com/M-Ahmad069/resume-app"><img src="assets/projects/resume.svg" width="49%" alt="Resume Builder landing page"/></a>
+  <a href="https://github.com/M-Ahmad069/cv-generator"><img src="assets/projects/cv.svg" width="49%" alt="CV Generator"/></a>
+  <a href="https://github.com/M-Ahmad069/csc337-ecommerce-rest-graphql-api"><img src="assets/projects/api.svg" width="49%" alt="E-commerce REST and GraphQL API"/></a>
+</p>
 
-<a href="https://m-ahmad069.github.io"><img src="https://img.shields.io/badge/View_my_portfolio-7c9cff?style=for-the-badge&logo=githubpages&logoColor=white" alt="View my portfolio"/></a>
+<br/>
 
-<sub>Thanks for stopping by.</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-now.svg"/>
+  <img src="assets/h-now-light.svg" width="100%" alt="05 Right now"/>
+</picture>
 
-</div>
+- Building a **salon management platform**: booking, staff and customer experience for multiple salons (private, shown on my portfolio)
+- Shipping with **AI agents** in the loop for planning, building and verification
+
+<br/>
+
+<p align="center">
+  <a href="https://m-ahmad069.github.io"><img src="assets/footer.svg" width="100%" alt="Let's build something remarkable. Visit my portfolio."/></a>
+</p>
